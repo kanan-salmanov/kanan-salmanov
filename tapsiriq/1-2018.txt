@@ -1,0 +1,4 @@
+var i=2019
+if ((i<=2018)&&(i>0))
+{console.log(i)} 
+  else console.log("0-dan boyuk,2018den kicik reqem daxil edin")
